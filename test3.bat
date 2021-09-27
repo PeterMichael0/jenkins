@@ -1,1 +1,1 @@
-systeminfo >c:\tet1\test2\info.txt
+systeminfo >c:\test1\test2\info.txt
