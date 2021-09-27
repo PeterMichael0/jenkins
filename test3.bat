@@ -1,0 +1,1 @@
+systeminfo >c:\tet1\test2\info.txt
